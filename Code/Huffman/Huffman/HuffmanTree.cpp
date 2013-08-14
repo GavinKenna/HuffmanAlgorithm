@@ -1,3 +1,9 @@
+/**
+    @author Gavin Kenna
+    @author Seán Lynch
+*/
+
+
 #include "HuffmanTree.h"
 #include "Huffman.h"
 #include <sstream>

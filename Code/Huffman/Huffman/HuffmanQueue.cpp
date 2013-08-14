@@ -1,3 +1,9 @@
+/**
+    @author Gavin Kenna
+    @author Seán Lynch
+*/
+
+
 #include "HuffmanQueue.h"
 #include "HuffmanTreeNode.h"
 

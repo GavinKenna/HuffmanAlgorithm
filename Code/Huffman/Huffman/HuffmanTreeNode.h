@@ -1,3 +1,9 @@
+/**
+    @author Gavin Kenna
+    @author Seán Lynch
+*/
+
+
 #pragma once
 #include <iostream>
 #include <string>

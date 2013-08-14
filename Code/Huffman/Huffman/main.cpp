@@ -1,3 +1,9 @@
+/**
+    @author Gavin Kenna
+    @author Seán Lynch
+*/
+
+
 #include "Huffman.h"
 #include "HuffmanQueue.h"
 #include "HuffmanQueue.cpp"
